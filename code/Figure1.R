@@ -1,6 +1,6 @@
-source("Scripts/Cdiff_GlobalFunctions.R")
-source("Scripts/Cdiff_LoadData.R")
-source("Scripts/Cdiff_ClusteringData.R")
+source("code/GlobalFunctions.R")
+source("code/LoadData.R")
+source("code/ClusteringData.R")
 
 
 
