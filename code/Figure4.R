@@ -1,6 +1,6 @@
 
 ## 0-2 SNPs cluster -------------------------------------------------------
-source("Scripts/Cdiff_ClusteringData.R")
+source("code/ClusteringData.R")
 
 ##### Loop to cluster the data
 
