@@ -1,5 +1,5 @@
-source("Scripts/Cdiff_GlobalFunctions.R")
-source("Scripts/Cdiff_LoadData.R")
+source("code/GlobalFunctions.R")
+source("code/LoadData.R")
 
 ## Days from pt positive to room positive ----------------------------------
 
