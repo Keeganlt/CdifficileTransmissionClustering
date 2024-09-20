@@ -1,5 +1,5 @@
-source("Scripts/Cdiff_GlobalFunctions.R")
-source("Scripts/Cdiff_LoadData.R")
+source("code/Functions.R")
+source("code/LoadData.R")
 
 
 # WITHIN AND BETWEEN SAMPLE DISTANCES --------------------------------------
