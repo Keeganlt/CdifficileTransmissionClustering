@@ -21,7 +21,7 @@ All source code used to generate the results and figures in the paper are in the
 
 ## Data
 
-Much of the study data is identifiable and therefore not able to be posted publicly per the University of Utah IRB. Genomic sequences are available on NCBI with the following information: 
+Much of the study data is potentially identifiable and therefore not able to be posted publicly per the University of Utah IRB. Genomic sequences are available on NCBI with the following information: 
 * Location: NCBI
 * BioProject ID: PRJNA968176
 * [Project link](http://www.ncbi.nlm.nih.gov/bioproject/968176)
