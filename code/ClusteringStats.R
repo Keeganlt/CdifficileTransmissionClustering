@@ -1,4 +1,4 @@
-source("Scripts/Cdiff_ClusteringData.R")
+source("code/ClusteringData.R")
 ## Probability of being in a cluster number of samples ---------------------
 
 # Calculate the duration of time on the ward (in days) for each Short.ID
