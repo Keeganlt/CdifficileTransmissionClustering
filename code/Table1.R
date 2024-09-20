@@ -1,5 +1,5 @@
-source("Scripts/Cdiff_GlobalFunctions.R")
-source("Scripts/Cdiff_LoadData.R")
+source("code/GlobalFunctions.R")
+source("code/LoadData.R")
 
 
 summarize_hospital_data <- function(data, hospital_id) {
