@@ -1,8 +1,8 @@
-source("Scripts/Cdiff_GlobalFunctions.R")
-source("Scripts/Cdiff_LoadData.R")
+source("code/GlobalFunctions.R")
+source("code/LoadData.R")
 
 # Load the image
-img_path <- "~/Data/Sampling_blank.png"
+img_path <- "~/figures/Sampling_blank.png"
 img <- readPNG(img_path)
 
 img_dims <- dim(img)  # Get image dimensions
