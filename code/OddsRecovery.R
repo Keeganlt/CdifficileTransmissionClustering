@@ -1,5 +1,5 @@
-source("Scripts/Cdiff_GlobalFunctions.R")
-source("Scripts/Cdiff_LoadData.R")
+source("code/GlobalFunctions.R")
+source("code/LoadData.R")
 
 
 # Subset the data
